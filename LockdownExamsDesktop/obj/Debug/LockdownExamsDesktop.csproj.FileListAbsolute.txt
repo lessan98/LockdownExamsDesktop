@@ -1,0 +1,10 @@
+C:\Users\lessan\LockdownExamsDesktop\LockdownExamsDesktop\bin\Debug\LockdownExamsDesktop.exe.config
+C:\Users\lessan\LockdownExamsDesktop\LockdownExamsDesktop\bin\Debug\LockdownExamsDesktop.exe
+C:\Users\lessan\LockdownExamsDesktop\LockdownExamsDesktop\bin\Debug\LockdownExamsDesktop.pdb
+C:\Users\lessan\LockdownExamsDesktop\LockdownExamsDesktop\obj\Debug\LockdownExamsDesktop.csprojAssemblyReference.cache
+C:\Users\lessan\LockdownExamsDesktop\LockdownExamsDesktop\obj\Debug\LockdownExamsDesktop.Form1.resources
+C:\Users\lessan\LockdownExamsDesktop\LockdownExamsDesktop\obj\Debug\LockdownExamsDesktop.Properties.Resources.resources
+C:\Users\lessan\LockdownExamsDesktop\LockdownExamsDesktop\obj\Debug\LockdownExamsDesktop.csproj.GenerateResource.cache
+C:\Users\lessan\LockdownExamsDesktop\LockdownExamsDesktop\obj\Debug\LockdownExamsDesktop.csproj.CoreCompileInputs.cache
+C:\Users\lessan\LockdownExamsDesktop\LockdownExamsDesktop\obj\Debug\LockdownExamsDesktop.exe
+C:\Users\lessan\LockdownExamsDesktop\LockdownExamsDesktop\obj\Debug\LockdownExamsDesktop.pdb
